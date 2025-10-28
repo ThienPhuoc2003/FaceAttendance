@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../frontend-dotnet"
+		},
+		{
+			"path": "../backend-python"
+		}
+	],
+	"settings": {}
+}

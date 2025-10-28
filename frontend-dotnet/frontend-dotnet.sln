@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceAttendance", "FaceAttendance\FaceAttendance.csproj", "{5A90DE5B-2824-AF9E-94E6-09F1D38FE904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A90DE5B-2824-AF9E-94E6-09F1D38FE904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A90DE5B-2824-AF9E-94E6-09F1D38FE904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A90DE5B-2824-AF9E-94E6-09F1D38FE904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A90DE5B-2824-AF9E-94E6-09F1D38FE904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57A59D89-969E-49B0-B2E7-760035556256}
+	EndGlobalSection
+EndGlobal

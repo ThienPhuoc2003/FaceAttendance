@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Dotnet specific
+frontend-dotnet/**/bin/
+frontend-dotnet/**/obj/
+frontend-dotnet/**/appsettings.Development.json
